@@ -16,7 +16,7 @@ This **Student Performance Dashboard** provides insights into student data, incl
 - **Purpose**: Displays the **distribution of grades** across the student population.
 - **Insights**: Visualizes the percentage of students who received each grade, allowing for a quick overview of the academic performance.
 
-###🔹 **Line Chart: Student Count by Year and Month**
+### 🔹 **Line Chart: Student Count by Year and Month**
 - **Purpose**: Shows the **trend in student enrollment** over time, broken down by year and month.
 - **Insights**: Helps track the **growth or decline** in student numbers, providing a clear view of enrollment patterns over time.
 
